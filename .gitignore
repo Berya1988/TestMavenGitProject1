@@ -1,2 +1,5 @@
 # Project exclude paths
 /target/
+/.idea/
+/TestMavenGitProject1.iml/
+/src/test/
